@@ -1,0 +1,4 @@
+# In seconds - please provide an integer (whole number)
+glow-duration: 30
+reload-message: "&7(&6!&7) &aReloaded configuration file!"
+noperms-message: "&7(&6!&7) &4No permission to use this command!"

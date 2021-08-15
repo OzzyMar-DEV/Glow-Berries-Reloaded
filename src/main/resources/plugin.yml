@@ -1,0 +1,5 @@
+name: GlowBerriesReloaded
+version: '${project.version}'
+main: com.github.ozzymar.glowberriesreloaded.GlowBerriesReloaded
+api-version: 1.17
+authors: [ OzzyMar ]
